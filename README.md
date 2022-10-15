@@ -1,2 +1,2 @@
 # VehicleInsurance
-Machine Learning model to predict best insurence poilcy for the given vehicle details
+Machine Learning model to predict best insurence policy for the given vehicle details
